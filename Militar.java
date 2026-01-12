@@ -71,7 +71,7 @@ public class Militar {
  
     
     
-    public void ingresarEmpleado(){
+    public void ingresarMilitar(){
         
          System.out.println("Ingresa el nombre del militar: ");
         nombre = sc.nextLine();

@@ -9,5 +9,5 @@ package solid_o;
  * @author User
  */
 public interface Salario {
-    double calcularSalario(Empleado empleado);
+    double calcularSalario(Militar militar);
 }

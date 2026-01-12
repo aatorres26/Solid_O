@@ -15,10 +15,10 @@ public class SOLID_O {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Empleado empleado =new Empleado ();
-        empleado.ingresarEmpleado();
+        Militar militar =new Militar ();
+        militar.ingresarMilitar();
         MostrarDatos mostrar= new MostrarDatos();
-        mostrar.mostrar(empleado);
+        mostrar.mostrar(militar);
     }
     
 }
